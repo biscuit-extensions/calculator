@@ -1,0 +1,7 @@
+[extension]
+id = "calculator"
+name = "Calculator"
+version = "0.1.0"
+description = "Calculator extension for Biscuit"
+author = "biscuit-extensions"
+icon = "icon.png"
